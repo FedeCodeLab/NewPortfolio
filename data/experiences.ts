@@ -2,11 +2,11 @@ export const experiences = [
   {
     title: "Desarrollador Front-end Ssr",
     type: "Contrato Temporal",
-    company: "BeBot (Argentina - Remoto) | Oct 2024 • Nov 2025",
+    company: "BeBot (Argentina - Remoto) | Oct 2024 • Act",
     name: "BeBot",
     img: "/brands/bebot.jpg",
     content:
-      "Trabajé junto al equipo de Bebot como Desarrollador Frontend, donde construí interfaces escalables, mantenibles y orientadas al detalle. Desarrollé componentes reutilizables y animaciones con Framer Motion, aplicando Tailwind CSS para lograr un diseño coherente y visualmente atractivo. Implementé un chatbot con Voiceflow, optimicé la integración y apliqué SSR para mejorar el rendimiento y el SEO. Además, gestioné el estado global con Zustand, integré i18n con Next-intl para la internacionalización y realicé despliegues en Firebase y vía FTP, garantizando estabilidad y entregas confiables. Colaboré con el equipo de diseño UX para asegurar una experiencia de usuario fluida y consistente.",
+      "Trabajo junto al equipo de Bebot como Desarrollador Frontend, donde construí interfaces escalables, mantenibles y orientadas al detalle. Desarrollé componentes reutilizables y animaciones con Framer Motion, aplicando Tailwind CSS para lograr un diseño coherente y visualmente atractivo. Implementé un chatbot con Voiceflow, optimicé la integración y apliqué SSR para mejorar el rendimiento y el SEO. Además, gestioné el estado global con Zustand, integré i18n con Next-intl para la internacionalización y realicé despliegues en Firebase y vía FTP, garantizando estabilidad y entregas confiables. Colaboré con el equipo de diseño UX para asegurar una experiencia de usuario fluida y consistente.",
     techs: [
       {
         name: "Next.js",

@@ -33,7 +33,7 @@ export const Hero = () => {
                 "Desarrollador Frontend Ssr",
                 3000,
                 "",
-                "Desarrollador React",
+                "Botmaker",
                 3000,
                 "",
               ]}
@@ -53,9 +53,8 @@ export const Hero = () => {
           >
             Mi expertise en Frontend consiste en crear interfaces web accesibles
             y de alto rendimiento. Utilizo React y Next.js para desarrollar
-            aplicaciones modernas optimizadas (SEO). Combino la solidez técnica
-            con una obsesión por la experiencia del usuario (UX) y el detalle
-            estético.
+            aplicaciones modernas optimizadas. Combino la solidez técnica con
+            una obsesión por la experiencia del usuario y el detalle estético.
           </motion.p>
 
           <motion.div
