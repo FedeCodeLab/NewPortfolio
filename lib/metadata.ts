@@ -11,18 +11,20 @@ export const metadata: Metadata = {
     "Portafolio",
     "Web Developer",
   ],
-  authors: [{ name: "Federico", url: "https://federicoguzman.vercel.app/" }],
+  authors: [
+    { name: "Federico Guzman", url: "https://federicoguzman.vercel.app/" },
+  ],
   creator: "Federico Guzmán",
   robots: "index, follow",
   openGraph: {
-    title: "FedeCodeLab | Frontend Developer",
+    title: "Federico Guzmán | Frontend Developer",
     description:
       "Construyo interfaces web modernas, accesibles y orientadas a la experiencia del usuario.",
-    url: "https://fedecodelab.vercel.app",
-    siteName: "fedecodelab",
+    url: "https://federicoguzman.vercel.app",
+    siteName: "federicoguzman",
     type: "website",
   },
   alternates: {
-    canonical: "https://fedecodelab.vercel.app/",
+    canonical: "https://federicoguzman.vercel.app/",
   },
 };

@@ -14,7 +14,7 @@ export const NavbarMobile = () => {
   return (
     <div className="fixed bg-[#FFFFFF] dark:bg-[#0b0d18] w-full py-4 px-6 flex lg:hidden items-center justify-between shadow-lg z-50">
       <h1 className="font-pixelifySans heading-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-pink-700 hover:from-pink-700 hover:to-blue-400 transition-colors duration-300">
-        FedeCodeLab
+        Federico Guzmán
       </h1>
 
       <button
